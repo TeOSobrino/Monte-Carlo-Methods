@@ -1,0 +1,9 @@
+.vscode/**
+.vscode/*
+.vscode
+*.vscode
+**.vscode
+*.o
+*.out
+*.bin
+*.tar
